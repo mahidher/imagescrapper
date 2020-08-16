@@ -6,3 +6,5 @@ Note:
 --ImageScrapper.py -- 
 To run this code in local.U need to locally download the chrome webdriver and point to it in Image scrapper.py
 driver = webdriver.Chrome(executable_path='local path')
+
+URL : https://myimagescrapper.herokuapp.com/
